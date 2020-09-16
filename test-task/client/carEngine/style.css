@@ -1,0 +1,16 @@
+div#app{
+    position: relative; 
+    height: 600px; 
+    text-align: center;
+}
+
+div.container{
+    position: absolute;
+    bottom: 15px; 
+    left: 45%;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+}
